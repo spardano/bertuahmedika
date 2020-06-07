@@ -52,6 +52,8 @@
         });
     },
 
+    
+
     Invoza.prototype.initCounter = function() {
         // Counter Number
         var a = 0;
